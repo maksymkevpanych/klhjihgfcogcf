@@ -1,0 +1,12 @@
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\bin\Debug\rungame.exe.config
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\bin\Debug\rungame.exe
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\bin\Debug\rungame.pdb
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.csproj.AssemblyReference.cache
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.Form1.resources
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.Properties.Resources.resources
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.csproj.GenerateResource.cache
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.csproj.CoreCompileInputs.cache
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.exe
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.pdb
+C:\Users\maxke\OneDrive\Робочий стіл\task\rungame\rungame\obj\Debug\rungame.Form2.resources
